@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Dyn365-CE-BDD/.vs/Dyn365-CE-BDD/v15
+/Dyn365-CE-BDD/AcceptanceTests/bin/Debug
+/Dyn365-CE-BDD/AcceptanceTests/obj/Debug
+/Dyn365-CE-BDD/Common/bin/Debug
+/Dyn365-CE-BDD/Common/obj/Debug
+/Dyn365-CE-BDD/packages
+/Dyn365-CE-BDD/Plugins/bin/Debug
+/Dyn365-CE-BDD/Plugins/obj/Debug
+/Dyn365-CE-BDD/SystemTests/bin/Debug
+/Dyn365-CE-BDD/SystemTests/obj/Debug
+/Dyn365-CE-BDD/UnitTests/bin/Debug
+/Dyn365-CE-BDD/UnitTests/obj/Debug
+/Dyn365-CE-BDD/AcceptanceTests/bin/Release
+/Dyn365-CE-BDD/AcceptanceTests/obj/Release
+/Dyn365-CE-BDD/Common/bin/Release
+/Dyn365-CE-BDD/Common/obj/Release
+/Dyn365-CE-BDD/Plugins/bin/Release
+/Dyn365-CE-BDD/Plugins/obj/Release
+/Dyn365-CE-BDD/SystemTests/bin/Release
+/Dyn365-CE-BDD/SystemTests/obj/Release
+/Dyn365-CE-BDD/UnitTests/bin/Release
+/Dyn365-CE-BDD/UnitTests/obj/Release
